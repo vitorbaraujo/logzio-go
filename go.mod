@@ -1,4 +1,4 @@
-module github.com/logzio/logzio-go
+module github.com/vitorbaraujo/logzio-go
 
 go 1.16
 
